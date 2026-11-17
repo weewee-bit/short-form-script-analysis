@@ -1,0 +1,4 @@
+interface:
+  display_name: "短视频脚本拆解"
+  short_description: "提取和校对短视频口播，逐条拆解开头、叙事、证据与兑现"
+  default_prompt: "用 $short-form-script-analysis 分析这段短视频，给我带原句或时间戳的 Hook、叙事、逐句审计和事实核查。"
